@@ -11,7 +11,7 @@ For scaling data by quantiles we need to compute the z-scores first.
 False. With quantiles, every data point is replaced by its percentile within the feature column.
 
 # Question 3
-![Image](Data310\images\3.png)
+![Image](Data310\images\3.PNG)
 
 # Question 4
 ![Image](Data310/images/4.png)
