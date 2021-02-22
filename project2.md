@@ -11,17 +11,30 @@ For scaling data by quantiles we need to compute the z-scores first.
 False. With quantiles, every data point is replaced by its percentile within the feature column.
 
 # Question 3
+![Image](Data310/images/3.png)
 
 # Question 4
+![Image](Data310/images/4.png)
+![Image](Data310/images/4.1.png)
 
 # Question 5
+True, a finite sum of squared quantities that depends on some parameters (weights), always has a minimum value.
 
 # Question 6
+![Image](Data310/images/6.png)
 
 # Question 7 
+![Image](Data310/images/7.1.png)
+![Image](Data310/images/7.png)
 
 # Question 8
+(True/False) If we have one input variable and one output, the process of determining the line of best fit may not require the calculation of the intercept inside the gradient descent algorithm.
+
+True, we can simply use the formula y = m * x + b
 
 # Question 9 
+For the line of regression in the case of the example we discussed with the 'mtcars' data set the meaning of the intercept is "no interperable meaning", because there is no x-intercept.
 
 # Question 10
+The slope of the regression line always remains the same if we scale the data by z-scores.
+False.
