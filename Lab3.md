@@ -26,16 +26,22 @@ Linear regression, multiple linear regression, and polynomial regression can be 
 
 True, ALthough the model wouldn't be as accurate in the case of polynomial functions.
 # Question 7 
-![Image](7.png)
+![data](7.PNG)
 
 # Question 8
-(True/False) If we have one input variable and one output, the process of determining the line of best fit may not require the calculation of the intercept inside the gradient descent algorithm.
+The gradient descent method does not need any hyperparameters.
 
-True, we can simply use the formula y = m * x + b
+
+False, needs a 'b' and an 'm'
 
 # Question 9 
-For the line of regression in the case of the example we discussed with the 'mtcars' data set the meaning of the intercept is "no interperable meaning", because there is no x-intercept.
-
+![steps](9.PNG)
+1. import matplotlib
+2. create the subplots
+3. add the data to the scatterplots
+4. add grids and ticks to the plots
 # Question 10
-The slope of the regression line always remains the same if we scale the data by z-scores.
-False.
+Which of the following forms is not  linear in the weights ?
+
+![steps](10.PNG)
+
