@@ -40,8 +40,9 @@ False, needs a 'b' and an 'm'
 2. create the subplots
 3. add the data to the scatterplots
 4. add grids and ticks to the plots
+
 # Question 10
-Which of the following forms is not  linear in the weights ?
+Which of the following forms is not linear in the weights?
 
 ![equation](10.PNG)
 
