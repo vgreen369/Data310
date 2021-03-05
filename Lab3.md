@@ -13,18 +13,20 @@ Disagree. All features don't have to correlate with the noise in order to obtain
 ![code](3.PNG)
 
 # Question 4
-![Image](images/4.png)
-![Image](images/4.1.png)
+In practice we determine the weights for linear regression with the "X_test" data.
 
+False. The weigths are arbitrarily taken then reduced using the cost function until they create a line of best fit.
 # Question 5
-True, a finite sum of squared quantities that depends on some parameters (weights), always has a minimum value.
+Polynomial regression is best suited for functional relationships that are non-linear in weights.
 
+
+False, Polynomial regression is best suited for functional relationships that are non-linear in FEATURE VARIABLES(x^2)
 # Question 6
-![Image](Data310/images/6.png)
+Linear regression, multiple linear regression, and polynomial regression can be all fit using LinearRegression() from the sklearn.linear_model module in Python.
 
+True, ALthough the model wouldn't be as accurate in the case of polynomial functions.
 # Question 7 
-![Image](Data310/images/7.1.png)
-![Image](Data310/images/7.png)
+![Image](7.png)
 
 # Question 8
 (True/False) If we have one input variable and one output, the process of determining the line of best fit may not require the calculation of the intercept inside the gradient descent algorithm.
