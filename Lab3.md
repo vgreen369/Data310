@@ -43,5 +43,5 @@ False, needs a 'b' and an 'm'
 # Question 10
 Which of the following forms is not  linear in the weights ?
 
-![steps](10.PNG)
+![equation](10.PNG)
 
