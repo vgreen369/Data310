@@ -10,7 +10,7 @@ In a linear regression model, all feature must correlate with the noise in order
 
 Disagree. All features don't have to correlate with the noise in order to obtain a good fit. Rather, they shouldcorrelate with the dependent variable or other features.
 # Question 3
-![Image](Data310/Lab_3_3.PNG)
+![Image](Data310/3.PNG)
 
 # Question 4
 ![Image](Data310/images/4.png)
