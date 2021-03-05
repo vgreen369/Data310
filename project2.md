@@ -11,21 +11,21 @@ For scaling data by quantiles we need to compute the z-scores first.
 False. With quantiles, every data point is replaced by its percentile within the feature column.
 
 # Question 3
-![Image](Data310/three.PNG)
+![Image](three.PNG)
 
 # Question 4
-![Image](Data310/images/4.png)
-![Image](Data310/images/4.1.png)
+![Image](images/4.png)
+![Image](images/4.1.png)
 
 # Question 5
 True, a finite sum of squared quantities that depends on some parameters (weights), always has a minimum value.
 
 # Question 6
-![Image](Data310/images/6.png)
+![Image](images/6.png)
 
 # Question 7 
-![Image](Data310/images/7.1.png)
-![Image](Data310/images/7.png)
+![Image](images/7.1.png)
+![Image](images/7.png)
 
 # Question 8
 (True/False) If we have one input variable and one output, the process of determining the line of best fit may not require the calculation of the intercept inside the gradient descent algorithm.
