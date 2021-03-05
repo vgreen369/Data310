@@ -25,7 +25,7 @@ True, a finite sum of squared quantities that depends on some parameters (weight
 
 # Question 7 
 ![Image](images/7.1.PNG)
-![Image](images/7.PNG)
+![Image](images/7.2.PNG)
 
 # Question 8
 (True/False) If we have one input variable and one output, the process of determining the line of best fit may not require the calculation of the intercept inside the gradient descent algorithm.
