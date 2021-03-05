@@ -32,7 +32,7 @@ True, ALthough the model wouldn't be as accurate in the case of polynomial funct
 The gradient descent method does not need any hyperparameters.
 
 
-False, needs a 'b' and an 'm'
+False, needs a 'b' and an 'm'.
 
 # Question 9 
 ![steps](9.PNG)
