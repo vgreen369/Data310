@@ -14,18 +14,18 @@ False. With quantiles, every data point is replaced by its percentile within the
 ![Image](three.PNG)
 
 # Question 4
-![Image](images/4.png)
-![Image](images/4.1.png)
+![Image](images/4.PNG)
+![Image](images/4.1.PNG)
 
 # Question 5
 True, a finite sum of squared quantities that depends on some parameters (weights), always has a minimum value.
 
 # Question 6
-![Image](images/6.png)
+![Image](images/6.PNG)
 
 # Question 7 
-![Image](images/7.1.png)
-![Image](images/7.png)
+![Image](images/7.1.PNG)
+![Image](images/7.PNG)
 
 # Question 8
 (True/False) If we have one input variable and one output, the process of determining the line of best fit may not require the calculation of the intercept inside the gradient descent algorithm.
