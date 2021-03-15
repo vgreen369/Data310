@@ -1,10 +1,9 @@
-### Lab 3
+### Lab 4
 
 # Question 1
 
-An "ordinary least squares" (or OLS) model seeks to minimize the differences between your true and estimated dependent variable.
+Regularization is defined as The minimization of the sum of squared residuals subject to a constraint on the weights (aka coefficients).
 
-True. The model seeks to calculate the "least squares", or the smallest square area created between a true and an estimated variable. 
 # Question 2
 In a linear regression model, all feature must correlate with the noise in order to obtain a good fit.
 
