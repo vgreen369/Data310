@@ -5,12 +5,13 @@
 Regularization is defined as The minimization of the sum of squared residuals subject to a constraint on the weights (aka coefficients).
 
 # Question 2
-In a linear regression model, all feature must correlate with the noise in order to obtain a good fit.
+The regularization with the square of an L2 distance may improve the results compared to OLS when the number of features is higher than the number of observations.
 
-Disagree. All features don't have to correlate with the noise in order to obtain a good fit. Rather, they shouldcorrelate with the dependent variable or other features.
+True, 
 # Question 3
-![code](3.PNG)
+The L1 norm always yields shorter distances compared to the Euclidean norm. 
 
+False
 # Question 4
 In practice we determine the weights for linear regression with the "X_test" data.
 
