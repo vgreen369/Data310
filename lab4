@@ -13,18 +13,15 @@ The L1 norm always yields shorter distances compared to the Euclidean norm.
 
 False
 # Question 4
-In practice we determine the weights for linear regression with the "X_test" data.
+Typically, the regularization is achieved by
+minimizing the average of the squared residuals plus a penalty function whose input is the vector of coefficients.
 
-False. The weigths are arbitrarily taken then reduced using the cost function until they create a line of best fit.
 # Question 5
-Polynomial regression is best suited for functional relationships that are non-linear in weights.
+A regularization method that facilitates variable selection (estimating some coefficients as zero) is Lasso
 
-
-False, Polynomial regression is best suited for functional relationships that are non-linear in FEATURE VARIABLES(x^2)
 # Question 6
-Linear regression, multiple linear regression, and polynomial regression can be all fit using LinearRegression() from the sklearn.linear_model module in Python.
+![data](lab4_6.PNG)
 
-True, ALthough the model wouldn't be as accurate in the case of polynomial functions.
 # Question 7 
 ![data](7.PNG)
 
