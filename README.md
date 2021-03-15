@@ -4,3 +4,5 @@
 [Lab 1](https://vgreen369.github.io/Data310/lab1)
 [Project 2](https://vgreen369.github.io/Data310/project2)
 [Lab 3](https://vgreen369.github.io/Data310/lab3)
+[Lab 4](https://vgreen369.github.io/Data310/lab4)
+
