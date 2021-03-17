@@ -23,24 +23,16 @@ A regularization method that facilitates variable selection (estimating some coe
 ![data](lab4_6.PNG)
 
 # Question 7 
-![data](7.PNG)
+![data](lab4_7.PNG)
 
 # Question 8
-The gradient descent method does not need any hyperparameters.
-
-
-False, needs a 'b' and an 'm'.
+![data](lab4_8.PNG)
 
 # Question 9 
-![steps](9.PNG)
-1. import matplotlib
-2. create the subplots
-3. add the data to the scatterplots
-4. add grids and ticks to the plots
+![data](lab4_9.PNG)
 
 # Question 10
-Which of the following forms is not linear in the weights?
+If we create all quadratic polynomial (degree=2) features based on the z-scores of the original features and then apply the Ridge regression with alpha=0.1 and we create a Quantile-Quantile plot for the residuals then the result shows that  the obtained residuals pretty much follow a normal distribution.
 
-![equation](10.PNG)
 True
 
