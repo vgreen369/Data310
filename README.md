@@ -7,3 +7,4 @@
 [Lab 4](https://vgreen369.github.io/Data310/lab4)
 [Project 1](https://vgreen369.github.io/Data310/project1)
 [Midterm](https://vgreen369.github.io/Data310/Midterm)
+[Lab 6](https://vgreen369.github.io/Data310/lab6)
