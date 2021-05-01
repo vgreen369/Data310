@@ -1,9 +1,5 @@
 ### Lab 5 Corrections
 
-# Question 1
-
-Regularization is defined as The minimization of the sum of squared residuals subject to a constraint on the weights (aka coefficients).
-
 # Question 2
 	
 A hard margin SVM is appropriate for data which is not linearly separable.
